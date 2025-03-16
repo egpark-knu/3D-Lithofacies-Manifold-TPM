@@ -10,7 +10,7 @@ The provided MATLAB script is specifically configured for **unconditional simula
 
 ## Main MATLAB script
 
-- **`unconditional_simulation.m`**: Performs an unconditional lithofacies stochastic simulation using synthetic manifold embedding and TPM.
+- **`GCMC3D_Modified.m`**: Performs an unconditional lithofacies stochastic simulation using synthetic manifold embedding and TPM.
 
 ---
 
@@ -54,7 +54,7 @@ These parameters explicitly control the generated lithofacies domains' geologica
 4. Run the script directly:
 
 ```matlab
->> unconditional_simulation
+>> GCMC3D_Modified
 ```
 
 ---
@@ -114,7 +114,7 @@ These functions explicitly implement critical algorithmic steps detailed in the 
 If you use this code, please cite our manuscript explicitly:
 
 ```
-Park, E., [Full Author list]. (Year). Title of the paper. Journal Name, Volume(Issue), Page Numbers. DOI.
+Park, E.. (2025). 3D Nonstationary Lithofacies Characterization via Manifold Embedding and Transition Probabilities for Hydrogeological Applications. Journal of Hydrology.
 ```
 
 ---

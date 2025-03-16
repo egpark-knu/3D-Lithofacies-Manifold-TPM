@@ -1,5 +1,3 @@
-# 3D-Lithofacies-Manifold-TPM
-
 # 3D Lithofacies Manifold TPM Simulation
 
 This repository provides MATLAB scripts for performing three-dimensional (3D) stochastic lithofacies simulations integrating **manifold embedding** with **transition probability modeling (TPM)**. The method explicitly incorporates structural geological constraints (pole-to-plane orientations), enabling realistic non-stationary modeling of subsurface lithological structures without the need for predefined Training Images (TIs).
